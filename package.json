@@ -1,0 +1,11 @@
+{
+  "name": "typescript-pubsub",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node --files src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
